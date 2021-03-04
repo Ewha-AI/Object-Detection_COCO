@@ -28,3 +28,12 @@
 |NASGC-CapANet (Faster R-CNN w FPN)| ResNet-101 | 41.7 | 62.6 | 45.4 | 23.6 | 44.6 | 53.0 |
 |NASGC-CapANet (Faster R-CNN w PAFPN)| ResNet-101 | 42.0 | 62.7 | 45.8 | 23.8 | 45.0 | 53.3 |
 |NASGC-CapANet (Faster R-CNN w PAFPN)| ResNet-101 | 43.8 | 62.8 | 47.7 | 24.7 | 46.6 | 56.5 |
+
+### Image result on MS COCO
+<div align="center">
+  <img src="resources/Picture3_2.png" width="600"/>
+</div>
+
+<div align="center">
+  <img src="resources/Picture5.png" width="600"/>
+</div>
